@@ -1,0 +1,18 @@
+import BiochemistryMetalloproteinsCanonicalLaneLean.AdmissibleClass
+import BiochemistryMetalloproteinsCanonicalLaneLean.BridgeLemmas
+import BiochemistryMetalloproteinsCanonicalLaneLean.GateLemmas
+import BiochemistryMetalloproteinsCanonicalLaneLean.FinalTheorem
+import BiochemistryMetalloproteinsCanonicalLaneLean.MetalloproteinKinetics
+import BiochemistryMetalloproteinsCanonicalLaneLean.MetalloproteinThermodynamics
+import BiochemistryMetalloproteinsCanonicalLaneLean.MetalloproteinOrbitals
+import BiochemistryMetalloproteinsCanonicalLaneLean.MetalloproteinEquilibrium
+
+namespace HautevilleHouse
+namespace BiochemistryMetalloproteinsCanonicalLaneLean
+
+-- Root module: imports all domain-specific packages.
+
+theorem all_domain_packages_imported : True := True.intro
+
+end BiochemistryMetalloproteinsCanonicalLaneLean
+end HautevilleHouse
